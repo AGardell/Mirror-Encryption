@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Generating code
+c:\users\agardell\documents\visual studio 2015\projects\mirror encryption\mirror encryption\create word.h(47): warning C4715: 'locateWord': not all control paths return a value
+  All 345 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Mirror Encryption.vcxproj -> c:\users\agardell\documents\visual studio 2015\Projects\Mirror Encryption\Release\Mirror Encryption.exe
